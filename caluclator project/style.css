@@ -1,0 +1,69 @@
+body {
+    background: linear-gradient(135deg, #00f619c4, #2a5298);
+    font-family: Arial, sans-serif;
+}
+
+.calculator {
+    width: 320px;
+    background-color: #0c3dffe7;
+}
+
+.display {
+    height: 60px;
+    font-size: 24px;
+    background-color: #000;
+    color: #00ffcc;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    background-color: rgb(0, 68, 255);
+}
+
+button {
+    flex: 1 0 22%;
+    height: 50px;
+    font-size: 18px;
+}
+
+.zero {
+    flex: 1 0 48%;
+}
+#no-1{
+    background-color: rgb(111, 22, 194);
+}
+#no-2{
+    background-color: rgb(111, 22, 194);
+}
+#no-3{
+    background-color: rgb(111, 22, 194);
+}
+#no-4{
+    background-color: rgb(111, 22, 194);
+}
+#no-5{
+    background-color: rgb(111, 22, 194);
+}
+#no-6{
+    background-color: rgb(111, 22, 194);
+}
+#no-7{
+    background-color: rgb(111, 22, 194);
+}
+#no-8{
+    background-color: rgb(111, 22, 194);
+}
+#no-9{
+    background-color: rgb(111, 22, 194);
+}
+#no-0{
+    background-color: rgb(111, 22, 194);
+}
+#dot{
+    background-color: rgb(111, 22, 194);
+}
