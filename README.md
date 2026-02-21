@@ -1,6 +1,12 @@
 # DEVELOPING-ONLINE-CALCULATOR
 USING HTML,CSS,JAVASCRIPT
 
+YOU CAN THE USER INTERFERENCE OF THE PROJECT
+
+THE NETILIFY LINK IS 
+
+https://playful-chebakia-36af36.netlify.app/
+
 # 🧮 Custom Calculator Web App
 
 A modern and responsive calculator built using **HTML, CSS, JavaScript,
@@ -64,7 +70,7 @@ production environments.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/custom-calculator.git
+git clone= { https://github.com/Ashenvali/DEVELOPING-ONLINE-CALCULATOR } 
 
 Open `index.html` in your browser.
 
